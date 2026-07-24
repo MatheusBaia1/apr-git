@@ -1,5 +1,5 @@
 #aprendendo git 
-estou aprendendo git para trabalhar 
+estou aprendendo git e github para trabalhar 
 
 ## O que estou aprendendo
 
