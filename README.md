@@ -10,3 +10,7 @@ estou aprendendo git para trabalhar
 ## Nova funcionalidade
 
 Estou aprendendo a trabalhar com branches no Git.
+
+## Git e GitHub
+
+Estou aprendendo controle de versão e colaboração com Git.
