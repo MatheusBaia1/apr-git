@@ -25,3 +25,4 @@ Este projeto foi criado para praticar Git e GitHub.
 ## Testando Git Stash
 
 Estou aprendendo a guardar alterações temporariamente.
+mais 
