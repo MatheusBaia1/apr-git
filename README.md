@@ -18,3 +18,7 @@ Estou aprendendo controle de versão e colaboração com Git.
 aprendendo git pull e clone 
 
 mais uma atualização
+
+## Sobre o projeto
+
+Este projeto foi criado para praticar Git e GitHub.
