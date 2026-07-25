@@ -27,3 +27,7 @@ Este projeto foi criado para praticar Git e GitHub.
 Estou aprendendo a guardar alterações temporariamente.
 mais 
 maaaa
+
+## Testando Git Revert
+
+Esta alteração será desfeita usando git revert.
